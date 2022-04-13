@@ -1,0 +1,32 @@
+_repo: The-Psychology-of-the-Emotions_67585
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ribot, Th. (Théodule)
+    aliases:
+    - Ribot, Th. (Theodule)
+    - Ribot, T. (Théodule)
+    - Ribot, Théodule Armand
+    birthdate: 1839
+    deathdate: 1916
+    gutenberg_agent_id: '31997'
+    url: http://www.gutenberg.org/2009/agents/31997
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Th%C3%A9odule-Armand_Ribot
+    - https://fr.wikipedia.org/wiki/Th%C3%A9odule-Armand_Ribot
+description: ''
+gutenberg_issued: '2022-03-08'
+identifiers:
+  gutenberg: '67585'
+  lccn: 01012922
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Contemporary science series
+subjects:
+- !lcsh 'Emotions'
+- !lcc 'BF'
+- GITenberg
+title: The Psychology of the Emotions
+url: http://www.gutenberg.org/ebooks/67585
